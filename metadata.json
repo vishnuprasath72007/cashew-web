@@ -1,0 +1,6 @@
+{
+  "name": "Cashunet - Premium Cashew Nuts Store",
+  "description": "Cashunet offers premium quality cashew nuts in multiple varieties, freshly packed and crafted to suit diverse tastes and budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
